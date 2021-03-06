@@ -1,5 +1,5 @@
-﻿const num = (a = 0) => {
-    let index = 1;
+﻿const num = (a) => {
+    let index;
     for (index = 1; index <= a; index++){
         switch(index){
             case 5: 
